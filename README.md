@@ -28,3 +28,8 @@ To understand how a program in c is created, you need to know the steps that thi
 
 ```c
 #include <stdio.h>
+
+main() {
+  printf("\n\nHello World!\n");
+}
+```
