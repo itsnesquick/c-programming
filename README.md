@@ -7,7 +7,7 @@ If you'd like to find out more about the history of c you should definitely do s
 ---
 
 ## Table of contents
-1. <a href="#creating-a-program-in-c">Creating a program in C</a>
+<a href="#creating-a-program-in-c">1. Creating a program in C</a>
 
 ---
 
