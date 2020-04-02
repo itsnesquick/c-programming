@@ -8,6 +8,7 @@ I encourage you to learn more about the history of "C". It is not only interesti
 
 ## Table of contents
 <a href="#creating-a-program-in-c">1. Creating a program in C</a>
+  <a href="#writing-source-code">- Writing source code</a>
 
 ---
 
