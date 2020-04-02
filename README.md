@@ -1,8 +1,8 @@
 # C Programming
 
-Welcome to the wonderful world of programming in c. It's an adventure, that's for sure. Being developed during 1969 and 1973 by Bell Laboratories, it has been around for a while. Yet c has seen a comeback in the recent years. Especially in the field of professional software development c can score with its execution speed, compactness and portability for programs.
+Welcome to the wonderful world of programming in "C". It's an adventure, that's for sure. "C" was developed between 1969 and 1973 by Bell Laboratories, and has recently made a comeback. In the field of professional software development, "C" can score with it's execution speed, compactness and portability for programs.
 
-If you'd like to find out more about the history of c you should definitely do so. It's very interesting and you'll have a deeper understanding of the language. You never know when that comes in handy. For now let's focus on how to create a c program.
+I encourage you to learn more about the history of "C". It is not only interesting, it will also give you a deeper understanding of the language. For now, let's focus on how to create a "C" program.
 
 ---
 
@@ -19,3 +19,7 @@ To understand how a program in c is created, you need to know the steps that thi
 2. Compile your source code
 3. Bind your compiled program
 
+### Writing source code
+
+```c
+#include <stdio.h>
